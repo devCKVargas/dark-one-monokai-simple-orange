@@ -1,0 +1,39 @@
+{
+	"name": "dark-one-monokai-simple-orange",
+	"displayName": "Dark+ One Monokai Simple Orange-color-theme",
+	"description": "Dark+ One Monokai syntax color w/ Simple Orange editor",
+	"version": "1.0.0",
+	"publisher": "devckvargas",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/devCKVargas/dark-one-monokai-simple-orange"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"devckvargas",
+		"dev",
+		"dev dark",
+		"one monokai",
+		"monokai",
+		"dark monokai",
+		"orange",
+		"simple orange"
+	],
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark+ One Monokai: Simple Orange",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark+ One Monokai Simple Orange-color-theme.json"
+			}
+		]
+	}
+}
+
